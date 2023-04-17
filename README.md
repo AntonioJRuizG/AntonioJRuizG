@@ -3,7 +3,7 @@
 
 - 👨‍💻 My project is available at (it takes a few minutes to wake up the server) [https://antonio-ruiz-final-project-2023.netlify.app/](https://antonio-ruiz-final-project-2023.netlify.app/)
 
-- 💬 Ask me about **react, node.js, SOLID and TESTING!**
+- 💬 Ask me about **how to design a web with a complete CRUD and user login using react/redux, nodejs, mongoDB as DB and how to host the backend and deploy de frontend**
 
 - 📫 How to reach me **antonioruizgarcia90 @ gmail . com**
 
