@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio Jesús</h1>
 <h3 align="center">A passionate developer from Málaga, Spain</h3>
 
-- 👨‍💻 My project is available at (it takes a few minutes to wake up the server) [https://antonio-ruiz-final-project-2023.netlify.app/](https://antonio-ruiz-final-project-2023.netlify.app/)
+- 👨‍💻 My project is available at  [https://antonio-ruiz-final-project-2023.netlify.app/](https://antonio-ruiz-final-project-2023.netlify.app/) (the server takes a few minutes to run)
 
 - 💬 Ask me about **how to design a web with a complete CRUD and user login using react/redux, nodejs, mongoDB as DB and how to host the backend and deploy de frontend**
 
