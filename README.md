@@ -5,9 +5,7 @@
 
 - 💬 Ask me about **how to design a web with a complete CRUD and user login using react/redux, nodejs, mongoDB as DB and how to host the backend and deploy de frontend**
 
-- 📫 How to reach me **antonioruizgarcia90 @ gmail . com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/antoniojesusruizgarcia](https://www.linkedin.com/in/antoniojesusruizgarcia)
+- 📄 Know about my experience and reach me [https://www.linkedin.com/in/antoniojesusruizgarcia](https://www.linkedin.com/in/antoniojesusruizgarcia)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
