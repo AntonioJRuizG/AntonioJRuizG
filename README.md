@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Antonio Jesús</h1>
-<h3 align="center">A passionate developer from Málaga, Spain</h3>
+<h1 align="center">Hi 👋, I'm Antonio Ruiz</h1>
+<h3 align="center">A passionate web developer from Málaga, Spain</h3>
 
 - 👨‍💻 My project is available at  [https://antonio-ruiz-final-project-2023.netlify.app/](https://antonio-ruiz-final-project-2023.netlify.app/) (the server takes a few minutes to run)
 
