@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antonio Ruiz</h1>
+<h1 align="center">Hello 👋, I'm Antonio Ruiz</h1>
 <h3 align="center">A passionate web developer from Málaga, Spain</h3>
 
 - 👨‍💻 My last project is available at [Be-Euphonium Network](https://beeuphonium.netlify.app/)
