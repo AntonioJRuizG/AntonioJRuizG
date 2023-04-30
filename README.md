@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Antonio Ruiz</h1>
 <h3 align="center">A passionate web developer from Málaga, Spain</h3>
 
-- 👨‍💻 My last project is available at [Be-Euphonium Network]([https://antonio-ruiz-final-project-2023.netlify.app/](https://beeuphonium.netlify.app/))
+- 👨‍💻 My last project is available at [Be-Euphonium Network](https://beeuphonium.netlify.app/)
 
 - 💬 Ask me about **how to design a web with a to build a FullStack Web Application applying SOLID principles, best practices, 100% coverage and CI/CD workflow**
 
 - 👩🏻‍💻👨🏻‍💻 I am motivated by collaborative efforts and working towards achieving team objectives.
 
-- 📄 Know about my experience [Antonio Ruiz Linkedin](https://www.linkedin.com/in/antoniojesusruizgarcia)
+- 📄 Know about my [curriculum](https://www.linkedin.com/in/antoniojesusruizgarcia)
 
 <h3 align="left">Languages and Tools:</h3>
 - Solid understanding of the following:
