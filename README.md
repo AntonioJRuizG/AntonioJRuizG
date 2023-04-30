@@ -3,7 +3,7 @@
 
 - 👨‍💻 My last project is available at [Be-Euphonium Network](https://beeuphonium.netlify.app/)
 
-- 💬 Ask me about **how to design a web with a to build a FullStack Web Application applying SOLID principles, best practices, 100% coverage and CI/CD workflow**
+- 💬 Ask me about **how to design a web with a to build a FullStack Web Application with React and a API REST applying best practices, testing (coverage up to 100%), e2e, CI/CD workflows...all you can see implemented in the project above**
 
 - 👩🏻‍💻👨🏻‍💻 I am motivated by collaborative efforts and working towards achieving team objectives.
 
