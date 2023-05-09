@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Antonio Ruiz</h1>
 <h3 align="center">A passionate web developer from Málaga, Spain</h3>
 
-- 👨‍💻 My last project is available at [Be-Euphonium Network](https://beeuphonium.netlify.app/)
+- 👨‍💻 My last project is a SPA for people to sign in and share their music instrument alias and characteristics: [Be-Euphonium Network](https://beeuphonium.netlify.app/) Users can add/edit and remove the item of their music instruments collection.
 
 - 💬 Ask me about **how to design a web with a to build a FullStack Web Application with React and a API REST applying best practices, testing (coverage up to 100%), e2e, CI/CD workflows...** all you can see implemented in the project above
 
