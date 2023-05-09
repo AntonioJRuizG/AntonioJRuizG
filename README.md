@@ -5,9 +5,9 @@
 Frontend:
 HTML, CSS, SASS, BEM. Web responsive.
 JavaScript: 
-- Closures, inheritance, prototipes, recursivity, functional programming and object oriented.
-- asynchrony (callbacks, promises, async, await). 
-- Public API http methods.
+Closures, inheritance, prototipes, recursivity, functional programming and object oriented.
+Asynchrony (callbacks, promises, async, await). 
+Public API http methods.
 Testing with JEST y React testing library (Test Doubles - Dummies, fakes, stubs, spies & mocks).
 ReactJS (components, custom hooks, router, SPA). State managment with REDUX.
 Version control with GIT.
