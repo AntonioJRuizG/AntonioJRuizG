@@ -1,27 +1,28 @@
 <h1 align="center">Hello 👋, I'm Antonio Ruiz</h1>
 <h3 align="center">A passionate web developer from Málaga, Spain</h3>
 
-- What I know?
-Frontend:
-HTML, CSS, SASS, BEM. Web responsive.
-JavaScript: 
-Closures, inheritance, prototipes, recursivity, functional programming and object oriented.
-Asynchrony (callbacks, promises, async, await). 
-Public API http methods.
-Testing with JEST y React testing library (Test Doubles - Dummies, fakes, stubs, spies & mocks).
-ReactJS (components, custom hooks, router, SPA). State managment with REDUX.
-Version control with GIT.
-CI/CD Workflows implementation.
-SOLID principles: singles responsibility, dependency inversion, etc.
+- My daily stack: 
 
-Backend:
-Architecture fundamentals. 
-Node.js. Create API REST, users managment, controllers, end points, authorization middlewares.
-BBDD noSQL (MongoDB) Model, create and manage collections with mongoose.
-Server-side rendering.
-Testing (Jest & e2e).
+  - Frontend:
+    - HTML, CSS, Sass, BEM. Web responsive.
+    - JavaScript & TypeScript: 
+      - Closures, inheritance, prototipes, recursivity, functional programming and object oriented.
+      - Asynchrony (callbacks, promises, async, await). 
+      - Public API http methods.
+    - Testing with JEST y React testing library (Test Doubles - Dummies, fakes, stubs, spies & mocks).
+    - ReactJS (components, custom hooks, router, SPA). State managment with REDUX.
+    - Version control with GIT.
+    - CI/CD Workflows implementation.
+    - SOLID principles: single responsibility, dependency inversion, etc.
 
-Best practices: TDD, clean code, SOLID principles, team work, AGILE (SCRUM) methodology, unit testing.
+  - Backend:
+    - Architecture fundamentals. 
+    - Node.js. Create API REST, users managment, controllers, end points, authorization middlewares.
+    - BBDD noSQL (MongoDB) Model, create and manage collections with mongoose.
+    - Server-side rendering.
+    - Testing (Jest & e2e).
+
+  - Best practices: TDD, clean code, SOLID principles, team work, AGILE (SCRUM) methodology, unit testing.
 
 - 👨‍💻 My last project is a SPA for people to sign in and share their music instrument alias and characteristics: [Be-Euphonium Network](https://beeuphonium.netlify.app/) Users can add/edit and remove the item of their music instruments collection.
 
