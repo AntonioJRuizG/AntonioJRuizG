@@ -1,8 +1,10 @@
 <div align="center">
-  <img  height=300 src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif"/>
+  
   <h2>Antonio J Ruiz</h2> 
   <h1>Full Stack Web Developer</h1> 
+<img  height=300 src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" align="right"/>
 </div>
+<br>
 
 ## About
 **I am a hardworking and dedicated individual. I invest my outside regular work hours to swiftly acquire the skills needed to excel in the role.**
@@ -21,7 +23,7 @@ My projects include:
 
 I also have knowledge on design tools such as Figma, Sass modules, Bootstrap or Tailwind.
 
-## Languages and stats
+## GitHub stats
 
 <div align="left">
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioJRuizG&theme=react&show_icons=true&hide_border=false&layout=compact"/>
