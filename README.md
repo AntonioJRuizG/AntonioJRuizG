@@ -87,8 +87,8 @@ They include:
 ## 📍 Projects 
 ### Full stack development projects
 <ul>
-  <li><b><a href="https://github.com/AntonioJRuizG/Be-Euphonium_front">Be-Euphonium (Front-end)</a></b>: Music enthusiasts network to share their favourite instruments </li>
-  <li><b><a href="https://github.com/AntonioJRuizG/Be-Euphonium_back">Be-Euphonium (Back-end)</a></b>: Node.js + Express RESTful API</li>
+  <li><b><a href="https://github.com/AntonioJRuizG/Be-Euphonium_front">Be-Music (Front-end)</a></b>: Music enthusiasts network to share their favourite instruments </li>
+  <li><b><a href="https://github.com/AntonioJRuizG/Be-Euphonium_back">Be-Music (Back-end)</a></b>: Node.js + Express RESTful API</li>
   <li><b><a href="https://github.com/AntonioJRuizG/ecommerce-front">E-Commerce</a></b>: Electronic products e-Commerce 🎧</li>
   <li><b><a href="https://github.com/AntonioJRuizG/ecommerce-front">E-Commerce Admin Dashboard</a></b>: Admin Dashboard for an e-Commerce Store</li>
 </ul>
